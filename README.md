@@ -12,4 +12,4 @@ To Run this test project, do
 
 Then do
 	
-	sudo docker-comopse up
+	sudo docker-comopse -m up
