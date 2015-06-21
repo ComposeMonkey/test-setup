@@ -1,6 +1,6 @@
 # Bootstrap
 
-To Run this test project, do
+To run this test project, do
 	
 	sudo pip install -U docker-compose
 
@@ -12,4 +12,4 @@ To Run this test project, do
 
 Then do
 	
-	sudo docker-comopse -m up
+	sudo docker-compose -m up
